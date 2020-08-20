@@ -2,5 +2,5 @@
     "python.linting.enabled": false,
     "python.linting.pylintEnabled": false,
     "python.linting.banditEnabled": true,
-    "python.pythonPath": "C:\\Users\\tohka\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+    "python.pythonPath": "C:\\Users\\tohka\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
 }
