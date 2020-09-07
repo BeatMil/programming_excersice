@@ -21,7 +21,7 @@ print(car02)
 
 
 # car = Car("Beat")
-# print(car) 
+# print(car)
 # print(car.name)
 # print(car.speed)
 # car.speed_up(100)
