@@ -9,3 +9,4 @@ print(type(a/b))
 # this is way cooler than I thought!
 # don't worry I wont leave you my lovely vim
 # math is cool... sometimess not all the time... lol
+# flow of process, why are didn' t
