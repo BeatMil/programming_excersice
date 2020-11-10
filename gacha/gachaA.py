@@ -1,6 +1,7 @@
 from random import randint as rd
 inventory = []
 print("welcome to random number game!;")
+# I also wanna see the diff here
 while (len(inventory) < 10):
     current_number = rd(1,10)
     if (inventory.count(current_number) > 0):

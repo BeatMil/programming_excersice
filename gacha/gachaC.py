@@ -1,4 +1,5 @@
 from random import randint as rd
+# I wanna see the diff
 inventory = []
 print("welcome to gacha game!")
 while (True):
