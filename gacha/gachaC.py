@@ -1,7 +1,10 @@
 from random import randint as rd
+
 # I wanna see the diff
 inventory = []
 print("welcome to gacha game!")
+# folding with zf is so cool
+# the true while loop
 while (True):
     ran_num = rd(1,10)
     if (inventory.count(ran_num) > 0):
