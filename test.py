@@ -1,5 +1,2 @@
-import os
-beat = 16
-print(os.getcwd())
-print("my age is %s"%beat)
-print("man".replace("a","o"))
+import random as rd
+print(rd.randint(1,10))
