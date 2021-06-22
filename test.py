@@ -3,8 +3,8 @@
 # Me so gud >///<
 import random as rd
 inventory = []
-while (len(inventory) < 10):
-    rand_num = rd.randint(1,10)
+while (len(inventory) < 12):
+    rand_num = rd.randint(1,12)
     if rand_num not in inventory:
         inventory.append(rand_num)
 inventory.sort()
